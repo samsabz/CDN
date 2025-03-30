@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "dynamicFont";
+    src: url('https://cdn.w3page.ir/fonts/Athene/Athene.woff2') format('woff2'),
+         url('https://cdn.w3page.ir/fonts/Athene/Athene.woff') format('woff'),
+         url('https://cdn.w3page.ir/fonts/Athene/Athene.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,23 @@
+@font-face {
+    font-family: "dynamicFont";
+    src: url('https://cdn.w3page.ir/fonts/Estedad/Estedad-Regular.woff2') format('woff2'),
+        url('https://cdn.w3page.ir/fonts/Estedad/Estedad-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "dynamicFont";
+    src: url('https://cdn.w3page.ir/fonts/Estedad/Estedad-Bold.woff2') format('woff2'),
+        url('https://cdn.w3page.ir/fonts/Estedad/Estedad-Bold.ttf') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "dynamicFont";
+    src: url('https://cdn.w3page.ir/fonts/Estedad/Estedad-Light.woff2') format('woff2'),
+        url('https://cdn.w3page.ir/fonts/Estedad/Estedad-Light.ttf') format('ttf');
+    font-weight: 300;
+    font-style: normal;
+}

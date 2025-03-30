@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "dynamicFont";
+    src: url('https://cdn.w3page.ir/fonts/Justsans/JUSTSansRegular.woff2') format('woff2'),
+        url('https://cdn.w3page.ir/fonts/Justsans/JUSTSansRegular.woff') format('woff'),
+        url('https://cdn.w3page.ir/fonts/Justsans/JUSTSansRegular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "dynamicFont";
+    src: url("https://cdn.w3page.ir/fonts/Justsans/JUSTSansExBold.ttf") format("ttf");
+    src: url("https://cdn.w3page.ir/fonts/Justsans/JUSTSansExBold.woff2") format("woff2"),
+        url("https://cdn.w3page.ir/fonts/Justsans/JUSTSansExBold.woff") format("woff");
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}

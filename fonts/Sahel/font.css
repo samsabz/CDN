@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "dynamicFont";
+  src: url('https://cdn.w3page.ir/fonts/Sahel/Sahel.eot');
+  src: url('https://cdn.w3page.ir/fonts/Sahel/Sahel.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.w3page.ir/fonts/Sahel/Sahel.woff2') format('woff2'),
+       url('https://cdn.w3page.ir/fonts/Sahel/Sahel.woff') format('woff'),
+       url('https://cdn.w3page.ir/fonts/Sahel/Sahel.ttf') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "dynamicFont";
+  src: url('https://cdn.w3page.ir/fonts/Sahel/Sahel-Bold.eot');
+  src: url('https://cdn.w3page.ir/fonts/Sahel/Sahel-Bold.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.w3page.ir/fonts/Sahel/Sahel-Bold.woff2') format('woff2'),
+       url('https://cdn.w3page.ir/fonts/Sahel/Sahel-Bold.woff') format('woff'),
+       url('https://cdn.w3page.ir/fonts/Sahel/Sahel-Bold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "dynamicFont";
+  src: url('https://cdn.w3page.ir/fonts/Sahel/Sahel-Light.eot');
+  src: url('https://cdn.w3page.ir/fonts/Sahel/Sahel-Light.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.w3page.ir/fonts/Sahel/Sahel-Light.woff2') format('woff2'),
+       url('https://cdn.w3page.ir/fonts/Sahel/Sahel-Light.woff') format('woff'),
+       url('https://cdn.w3page.ir/fonts/Sahel/Sahel-Light.ttf') format('truetype');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "dynamicFont";
+  src: url('https://cdn.w3page.ir/fonts/Sahel/Sahel-SemiBold.eot');
+  src: url('https://cdn.w3page.ir/fonts/Sahel/Sahel-SemiBold.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.w3page.ir/fonts/Sahel/Sahel-SemiBold.woff2') format('woff2'),
+       url('https://cdn.w3page.ir/fonts/Sahel/Sahel-SemiBold.woff') format('woff'),
+       url('https://cdn.w3page.ir/fonts/Sahel/Sahel-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: Sahel;
+  src: url('https://cdn.w3page.ir/fonts/Sahel/Sahel-Black.eot');
+  src: url('https://cdn.w3page.ir/fonts/Sahel/Sahel-Black.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.w3page.ir/fonts/Sahel/Sahel-Black.woff2') format('woff2'),
+       url('https://cdn.w3page.ir/fonts/Sahel/Sahel-Black.woff') format('woff'),
+       url('https://cdn.w3page.ir/fonts/Sahel/Sahel-Black.ttf') format('truetype');
+  font-weight: 900;
+}

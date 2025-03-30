@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "dynamicFont";
+    src: url('https://cdn.w3page.ir/fonts/Azarshiva/azarShiva.woff2') format('woff2'),
+         url('https://cdn.w3page.ir/fonts/Azarshiva/azarShiva.woff') format('woff'),
+         url('https://cdn.w3page.ir/fonts/Azarshiva/azarShiva.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}

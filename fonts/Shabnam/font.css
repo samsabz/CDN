@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "dynamicFont";
+    src: url("https://cdn.w3page.ir/fonts/Shabnam/Shabnam.eot") format("eot");
+    src: url("https://cdn.w3page.ir/fonts/Shabnam/Shabnam.woff2") format("woff2"),
+        url("https://cdn.w3page.ir/fonts/Shabnam/Shabnam.woff") format("woff"),
+        url("https://cdn.w3page.ir/fonts/Shabnam/Shabnam.ttf") format("ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "dynamicFont";
+    src: url("https://cdn.w3page.ir/fonts/Shabnam/Shabnam-Bold.eot") format("eot");
+    src: url("https://cdn.w3page.ir/fonts/Shabnam/Shabnam-Bold.woff") format("woff2"),
+        url("https://cdn.w3page.ir/fonts/Shabnam/Shabnam-Bold.ttf") format("ttf"),
+        url("https://cdn.w3page.ir/fonts/Shabnam/Shabnam-Bold.woff2") format("woff2");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "dynamicFont";
+    src: url("https://cdn.w3page.ir/fonts/Shabnam/Shabnam-Light.eot") format("eot");
+    src: url("https://cdn.w3page.ir/fonts/Shabnam/Shabnam-Light.woff2") format("woff2"),
+        url("https://cdn.w3page.ir/fonts/Shabnam/Shabnam-Light.woff") format("woff"),
+        url("https://cdn.w3page.ir/fonts/Shabnam/Shabnam-Light.ttf") format("ttf");
+    font-weight: 300;
+}
